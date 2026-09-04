@@ -2,16 +2,18 @@
 
 Hey, I'm Kenley! I'm a **Mechatronics Engineering** student at the **University of Waterloo** who's passionate about intelligent systems. I'm currently **developing skills in hardware prototyping, robotics software, control systems, and AI** to explore the variety of meaningful problems waiting to be solved at the intersection of **robotics** and **physical AI.**
 
+## LinkedIn & Resume
+
 <a href="https://www.linkedin.com/in/kenley-abakabawakow/" target="blank"> 
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/kenley.abaka/" target="blank"> 
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+<a href="https://drive.google.com/file/d/1YC0iWu7JYnC25wHzaxCKRSlY7eJEjo4g/view?usp=sharing" target="_blank">
+  <img src="https://skillicons.dev/icons?i=latex" alt="Resume" />
 </a>
 
 ---
 
-# Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,7 +23,7 @@ Hey, I'm Kenley! I'm a **Mechatronics Engineering** student at the **University 
 
 ---
 
-# Libraries, Frameworks & Tools
+## Libraries, Frameworks & Tools
 
 ![CMU Graphics](https://img.shields.io/badge/CMU_Graphics-%23C41E3A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -32,7 +34,7 @@ Hey, I'm Kenley! I'm a **Mechatronics Engineering** student at the **University 
 
 ---
 
-# Learning...
+## Learning...
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
