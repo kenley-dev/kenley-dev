@@ -16,15 +16,17 @@ Hey, I'm Kenley! I'm a **Mechatronics Engineering** student at the **University 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-002B49?style=for-the-badge&logo=octave&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 # Libraries, Frameworks & Tools
 
-![Pygame](https://img.shields.io/badge/pygame-%232D3748.svg?style=for-the-badge&logo=python&logoColor=white)
+![CMU Graphics](https://img.shields.io/badge/CMU_Graphics-%23C41E3A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
