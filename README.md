@@ -7,7 +7,7 @@ Hey, I'm Kenley! I'm a **Mechatronics Engineering** student at the **University 
 <a href="https://www.linkedin.com/in/kenley-abakabawakow/" target="blank"> 
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://drive.google.com/file/d/1vZ23cNjSepbhQwW-lKc69Bi3_ELXYsuY/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1FqmErCfeZVyGX2mwhmtirQPnshQAei7u/view?usp=sharing" target="_blank">
   <img src="https://skillicons.dev/icons?i=latex" alt="Resume" />
 </a>
 
