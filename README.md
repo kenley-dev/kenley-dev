@@ -2,10 +2,13 @@
 
 Hey, I'm Kenley! I'm a **Mechatronics Engineering** student at the **University of Waterloo** who's passionate about intelligent systems. I'm currently **developing skills in hardware prototyping, robotics software, control systems, and AI** to explore the variety of meaningful problems waiting to be solved at the intersection of **robotics** and **physical AI.**
 
-## LinkedIn
+## LinkedIn & Resume
 
-<a href="https://www.linkedin.com/in/kenley-abakabawakow/" target="blank"> 
+<a href="https://www.linkedin.com/in/kenley-abakabawakow/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://drive.google.com/file/d/1vD-uPJDK0UOTihXevEm3VvNLAgryxiyK/view?usp=sharing" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=latex" alt="Resume" />
 </a>
 
 ---
